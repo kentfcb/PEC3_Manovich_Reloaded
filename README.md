@@ -85,3 +85,9 @@ Con esto podemos saber si el NFT que estamos comprando es del autor que nos est�
 La conclusión sobre los NFT, podemos ver como dice Lev Manovich que estamos en una era de la digitalización. Con esto me refiero a la vida actual, estamos haciendo un cambio tecnológico donde intentamos digitalizar y poder apreciarlo a través de una pantalla.
 
 Como hemos hablado en la analisis, algo tan simple como un cuadro físico lo hemos transforma en un cuadro digital con todas características que tiene uno físico.
+
+#### ** Referencias y Bibliografía**
+
+-   Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
+- Xataka (19 ago 2021) ** Que son los NFT y cómo funcionan** Xataka. https://www.xataka.com/basics/que-nft-como-funcionan
+- Significados (12 agosto 2003) **  Significado de MMORPG** Significados https://www.significados.com/mmorpg/
